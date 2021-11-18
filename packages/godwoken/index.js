@@ -184,7 +184,7 @@ class GodwokenUtils {
       script,
       fee: {
         sudt_id: "0x1",
-        amount: "0x0",
+        amount: "0x3333",
       }
     };
     const enum_tag = "0x00000000";
